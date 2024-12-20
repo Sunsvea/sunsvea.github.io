@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf80ac261aef19ea1770eab6f7b634dd",
+    "revision": "903023b098a26f28c2f0065aef2b1551",
     "url": "./index.html"
   },
   {
-    "revision": "c8cd769f192e3a76e1fb",
+    "revision": "aa44cfc94cfbcd61ba52",
     "url": "./static/css/main.b17282c7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.78d6cd53.chunk.js"
   },
   {
-    "revision": "c8cd769f192e3a76e1fb",
-    "url": "./static/js/main.6559477f.chunk.js"
+    "revision": "aa44cfc94cfbcd61ba52",
+    "url": "./static/js/main.1b484f10.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/data_science.ebf35d7f.svg"
   },
   {
-    "revision": "fc6183b0253dda49af5cbeaff0745f94",
-    "url": "./static/media/dean_coulstock.fc6183b0.webp"
+    "revision": "089c52bb2341372b82cfa74b4276de35",
+    "url": "./static/media/dean_coulstock.089c52bb.png"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
