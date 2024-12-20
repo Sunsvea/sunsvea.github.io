@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.b17282c7.chunk.css",
-    "main.js": "./static/js/main.d296e5d4.chunk.js",
-    "main.js.map": "./static/js/main.d296e5d4.chunk.js.map",
+    "main.js": "./static/js/main.6559477f.chunk.js",
+    "main.js.map": "./static/js/main.6559477f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
     "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
     "static/js/2.78d6cd53.chunk.js": "./static/js/2.78d6cd53.chunk.js",
     "static/js/2.78d6cd53.chunk.js.map": "./static/js/2.78d6cd53.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.81acf3392f8265838ca6dfdccbdff928.js": "./precache-manifest.81acf3392f8265838ca6dfdccbdff928.js",
+    "precache-manifest.14364f44a62f725c27f2e6eb36a1fedf.js": "./precache-manifest.14364f44a62f725c27f2e6eb36a1fedf.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.b17282c7.chunk.css.map": "./static/css/main.b17282c7.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
+    "static/media/dean_coulstock.webp": "./static/media/dean_coulstock.fc6183b0.webp",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "./static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "./static/media/dsc_logo.63f707f2.png",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.fb7e7b0c.js",
     "static/js/2.78d6cd53.chunk.js",
     "static/css/main.b17282c7.chunk.css",
-    "static/js/main.d296e5d4.chunk.js"
+    "static/js/main.6559477f.chunk.js"
   ]
 }

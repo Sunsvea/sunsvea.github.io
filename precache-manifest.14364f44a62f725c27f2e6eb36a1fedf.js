@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "077438f3410fa74079ec1eee5ac93238",
+    "revision": "bf80ac261aef19ea1770eab6f7b634dd",
     "url": "./index.html"
   },
   {
-    "revision": "a21236fad74aa274d4e2",
+    "revision": "c8cd769f192e3a76e1fb",
     "url": "./static/css/main.b17282c7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.78d6cd53.chunk.js"
   },
   {
-    "revision": "a21236fad74aa274d4e2",
-    "url": "./static/js/main.d296e5d4.chunk.js"
+    "revision": "c8cd769f192e3a76e1fb",
+    "url": "./static/js/main.6559477f.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
@@ -56,10 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/address_image.16559172.svg"
   },
   {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "./static/media/animated_ashutosh.eaf02c2d.png"
-  },
-  {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "./static/media/animated_logo.dcd6dee2.svg"
   },
@@ -82,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "./static/media/data_science.ebf35d7f.svg"
+  },
+  {
+    "revision": "fc6183b0253dda49af5cbeaff0745f94",
+    "url": "./static/media/dean_coulstock.fc6183b0.webp"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
